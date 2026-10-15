@@ -1,0 +1,4 @@
+.pi/
+.zig-cache/
+zig-out/
+debug.log
